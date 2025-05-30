@@ -1,5 +1,6 @@
 ### Olá, Eu sou a Natasha Lopes! 👩‍💻
 
+Passionate Systems Analysis & Development Student | Python Enthusiast | Proactive Team Player
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-oliveira-lopes-834a4623a/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natasha.lopes_/) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nat-Lopes) 
 
@@ -16,7 +17,8 @@
 </div><br>
 
 
-Apaixonada por programação e machine learning, adoro aprender coisas novas e ajudar pessoas! 🤩
+👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas apaixonada por programação, machine learning e desenvolvimento. Valorizo o trabalho em equipe como uma forma dinâmica de aprender e trocar conhecimentos. Sou proativa, comunicativa e pontual, com facilidade para assimilar novos conceitos. Adoro desafios, resolver problemas e encontrar soluções eficazes, sempre buscando evoluir continuamente.
+🔐 Atualmente, estou expandindo meus conhecimentos em Segurança Cibernética.
 
 
 
