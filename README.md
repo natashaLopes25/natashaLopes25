@@ -1,3 +1,4 @@
+
 ### Olá, Eu sou a Natasha Lopes! 👩‍💻
 
 Passionate Systems Analysis & Development Student | Python Enthusiast | Proactive Team Player
@@ -17,7 +18,10 @@ Passionate Systems Analysis & Development Student | Python Enthusiast | Proactiv
 </div><br>
 
 
-👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas apaixonada por programação, machine learning e desenvolvimento. Valorizo o trabalho em equipe como uma forma dinâmica de aprender e trocar conhecimentos. Sou proativa, comunicativa e pontual, com facilidade para assimilar novos conceitos. Adoro desafios, resolver problemas e encontrar soluções eficazes, sempre buscando evoluir continuamente.
+👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas apaixonada por programação, machine learning e desenvolvimento.
+Valorizo o trabalho em equipe como uma forma dinâmica de aprender e trocar conhecimentos. 
+Sou proativa, comunicativa e pontual, com facilidade para assimilar novos conceitos.
+Adoro desafios, resolver problemas e encontrar soluções eficazes, sempre buscando evoluir continuamente.
 🔐 Atualmente, estou expandindo meus conhecimentos em Segurança Cibernética.
 
 
